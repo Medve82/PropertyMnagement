@@ -1,0 +1,857 @@
+[
+  {
+    "Adresa": "Marin Preda 10-12, Ap. 16",
+    "COD CONTABILITATE": "62",
+    "RM": "Roby",
+    "Cod": "i3506",
+    "Dosar": "2",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Viva City Bloc 2, Ap. G10",
+    "COD CONTABILITATE": "62",
+    "RM": "Roby",
+    "Cod": "i6296",
+    "Dosar": "2",
+    "Parcare": "170",
+    "": ""
+  },
+  {
+    "Adresa": "Viva City Bloc 2, Ap. N6 - 84",
+    "COD CONTABILITATE": "62",
+    "RM": "Roby",
+    "Cod": "i6924",
+    "Dosar": "2",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Viva City Bloc 3, Ap E5 - 61",
+    "COD CONTABILITATE": "62",
+    "RM": "Roby",
+    "Cod": "i8745",
+    "Dosar": "2",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Castanilor 1, Bl. 3H, Sc. 3, Ap. 24",
+    "COD CONTABILITATE": "56",
+    "RM": "Roby",
+    "Cod": "i8359",
+    "Dosar": "5",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Bună Ziua 41B, Bl. M7, scara 1, Ap. 75",
+    "COD CONTABILITATE": "28",
+    "RM": "Roby",
+    "Cod": "i11057",
+    "Dosar": "1",
+    "Parcare": "48",
+    "": ""
+  },
+  {
+    "Adresa": "Viva City - Bloc 3, Ap. D6-74",
+    "COD CONTABILITATE": "75",
+    "RM": "Comi",
+    "Cod": "i9034",
+    "Dosar": "5",
+    "Parcare": "85",
+    "": ""
+  },
+  {
+    "Adresa": "Viva City - Bloc 3, Ap. i5-65",
+    "COD CONTABILITATE": "10",
+    "RM": "Roby",
+    "Cod": "i9375",
+    "Dosar": "2",
+    "Parcare": "57",
+    "": ""
+  },
+  {
+    "Adresa": "Iosif Vulcan 38-40, Ap. 27",
+    "COD CONTABILITATE": "19",
+    "RM": "Roby",
+    "Cod": "i10562",
+    "Dosar": "1",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Iosif Vulcan 32A, Ap. 2",
+    "COD CONTABILITATE": "30",
+    "RM": "Roby",
+    "Cod": "i15727",
+    "Dosar": "1",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Iosif Vulcan 32A, Ap. 4",
+    "COD CONTABILITATE": "21",
+    "RM": "Roby",
+    "Cod": "i12539",
+    "Dosar": "1",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Dorobantilor 98, ap. 16",
+    "COD CONTABILITATE": "12",
+    "RM": "Comi",
+    "Cod": "i9950",
+    "Dosar": "1",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Buna Ziua, 37C, bloc E4A, Sc. 2, Ap. 28",
+    "COD CONTABILITATE": "5",
+    "RM": "Comi",
+    "Cod": "i5558",
+    "Dosar": "2",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Lunii 13, ap. 29",
+    "COD CONTABILITATE": "34",
+    "RM": "Comi",
+    "Cod": "i10704",
+    "Dosar": "4",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Cetății 55, ap. 8",
+    "COD CONTABILITATE": "18",
+    "RM": "Roby",
+    "Cod": "i11027",
+    "Dosar": "1",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Parang 35, bl. T3, ap. 119",
+    "COD CONTABILITATE": "6",
+    "RM": "Comi",
+    "Cod": "i11777",
+    "Dosar": "4",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Padin 20, Ap. 57",
+    "COD CONTABILITATE": "31",
+    "RM": "Comi",
+    "Cod": "i12165",
+    "Dosar": "1",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Frunzișului 11, Ap. 40",
+    "COD CONTABILITATE": "35",
+    "RM": "Comi",
+    "Cod": "i13568",
+    "Dosar": "4",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Răzoare 7C, Bl. C, Ap. 19",
+    "COD CONTABILITATE": "49",
+    "RM": "Comi",
+    "Cod": "i12410",
+    "Dosar": "4",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Florilor 278, bloc C2, scr 1, Ap. 23",
+    "COD CONTABILITATE": "32",
+    "RM": "Comi",
+    "Cod": "i14633",
+    "Dosar": "1",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Fabricii 105, Sc. 3, Ap. 173, cod 8053# acces din garaj",
+    "COD CONTABILITATE": "60",
+    "RM": "Roby",
+    "Cod": "i12310",
+    "Dosar": "3",
+    "Parcare": "14",
+    "": ""
+  },
+  {
+    "Adresa": "Fabricii 105, Sc. 3, Ap. 41, cod 8053# acces din garaj",
+    "COD CONTABILITATE": "76",
+    "RM": "Roby",
+    "Cod": "i12602",
+    "Dosar": "3",
+    "Parcare": "49",
+    "": ""
+  },
+  {
+    "Adresa": "Fabricii 105, Sc. 3, Ap. 42, cod 8053# acces din garaj",
+    "COD CONTABILITATE": "69",
+    "RM": "Comi",
+    "Cod": "i12253",
+    "Dosar": "3",
+    "Parcare": "50",
+    "": ""
+  },
+  {
+    "Adresa": "Câmpina nr. 40",
+    "COD CONTABILITATE": "",
+    "RM": "Roby",
+    "Cod": "i12857",
+    "Dosar": "3",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Câmpina nr. 42",
+    "COD CONTABILITATE": "88",
+    "RM": "Roby",
+    "Cod": "i13228",
+    "Dosar": "3",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Bună Ziua 35D, Bl. C1-C2, Ap. 5  (Bella Vista)",
+    "COD CONTABILITATE": "11",
+    "RM": "Comi",
+    "Cod": "i12391",
+    "Dosar": "1",
+    "Parcare": "3",
+    "": ""
+  },
+  {
+    "Adresa": "Bizușa 2, Sc. 2, Ap. 47",
+    "COD CONTABILITATE": "25",
+    "RM": "Roby",
+    "Cod": "i12574",
+    "Dosar": "3",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Băișoara 5, Sc. 4, Ap. 50",
+    "COD CONTABILITATE": "38",
+    "RM": "Roby",
+    "Cod": "i12570",
+    "Dosar": "3",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Soporului 29A, Bl. A, Sc. 1, Ap. 64",
+    "COD CONTABILITATE": "7",
+    "RM": "Roby",
+    "Cod": "i13062",
+    "Dosar": "4",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Soporului 5, Sc. 2, Ap. A608",
+    "COD CONTABILITATE": "36",
+    "RM": "Roby",
+    "Cod": "i13273",
+    "Dosar": "4",
+    "Parcare": "18",
+    "": ""
+  },
+  {
+    "Adresa": "Aleea Micuș 2, Bl. F6, Sc. 4, Ap. 67",
+    "COD CONTABILITATE": "104",
+    "RM": "Roby",
+    "Cod": "i13718",
+    "Dosar": "4",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Primaverii 10, Bl. D14, Sc. 1, Ap. 16",
+    "COD CONTABILITATE": "8",
+    "RM": "Roby",
+    "Cod": "i13725",
+    "Dosar": "4",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Remenyik Sandor 1, Ap. 6",
+    "COD CONTABILITATE": "73",
+    "RM": "Roby",
+    "Cod": "i15451",
+    "Dosar": "2",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Lucernei 17A",
+    "COD CONTABILITATE": "29",
+    "RM": "Roby",
+    "Cod": "i13330",
+    "Dosar": "4",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Aleea Gârbău 9A, Ap. 2",
+    "COD CONTABILITATE": "53",
+    "RM": "Roby",
+    "Cod": "i14025",
+    "Dosar": "5",
+    "Parcare": "20",
+    "": ""
+  },
+  {
+    "Adresa": "16 Februarie 2A, Ap. 5",
+    "COD CONTABILITATE": "57",
+    "RM": "Roby",
+    "Cod": "i14961",
+    "Dosar": "5",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Bistritei 16, Ap. 1D",
+    "COD CONTABILITATE": "39",
+    "RM": "Comi",
+    "Cod": "i14562",
+    "Dosar": "5",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Aurel Vlaicu 184, bl. C2, sc. 2, Ap. 103",
+    "COD CONTABILITATE": "81",
+    "RM": "Comi",
+    "Cod": "i14802",
+    "Dosar": "6",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Aurel Vlaicu 184, bl. C2, sc. 2,  Ap. 111",
+    "COD CONTABILITATE": "91",
+    "RM": "Comi",
+    "Cod": "i14803",
+    "Dosar": "6",
+    "Parcare": "83",
+    "": ""
+  },
+  {
+    "Adresa": "Bucovina 1, Ap. 11",
+    "COD CONTABILITATE": "58",
+    "RM": "Roby",
+    "Cod": "i14801",
+    "Dosar": "6",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Augustin Presecan 4, BL. T3, ap. 57",
+    "COD CONTABILITATE": "5",
+    "RM": "Comi",
+    "Cod": "i13864",
+    "Dosar": "6",
+    "Parcare": "31",
+    "": ""
+  },
+  {
+    "Adresa": "Calea Manastur 38-40, bl. C2, ap. 15 (Cod interfon: cheita 1246)",
+    "COD CONTABILITATE": "51",
+    "RM": "Comi",
+    "Cod": "i15007",
+    "Dosar": "6",
+    "Parcare": "42 - acces parcare 0733-045296",
+    "": ""
+  },
+  {
+    "Adresa": "Bună Ziua 39, Bl. E7D, Sc. 2, Ap. 117",
+    "COD CONTABILITATE": "47",
+    "RM": "Roby",
+    "Cod": "i15048",
+    "Dosar": "6",
+    "Parcare": "47",
+    "": ""
+  },
+  {
+    "Adresa": "Soporului 8, Bl. A1, Sc. 2, Ap. 96 Cod Acces 3243",
+    "COD CONTABILITATE": "59",
+    "RM": "Roby",
+    "Cod": "i12359",
+    "Dosar": "6",
+    "Parcare": "45",
+    "": "Cod Acces 3243"
+  },
+  {
+    "Adresa": "21 Decembrie 1989 Nr. 135, Bl. M3, Sc. III, Ap. 95",
+    "COD CONTABILITATE": "40",
+    "RM": "Comi",
+    "Cod": "i15772",
+    "Dosar": "7",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Florilor 207B, Ap. 14",
+    "COD CONTABILITATE": "15",
+    "RM": "Roby",
+    "Cod": "i15653",
+    "Dosar": "6",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Observatorului 136-138, Bl. 2, scara 2, Ap. 46",
+    "COD CONTABILITATE": "22",
+    "RM": "Comi",
+    "Cod": "i15320",
+    "Dosar": "6",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Henri Barbusse 44-46, Ap. 38A",
+    "COD CONTABILITATE": "4",
+    "RM": "Comi",
+    "Cod": "i15348",
+    "Dosar": "7",
+    "Parcare": "89",
+    "": ""
+  },
+  {
+    "Adresa": "Edgar Quinet 4-6, Bl. A, Ap. 50;  cod acces bloc *004628",
+    "COD CONTABILITATE": "103",
+    "RM": "Comi",
+    "Cod": "i15361",
+    "Dosar": "7",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Campului 40, bloc I2, scara V, ap. 53",
+    "COD CONTABILITATE": "41",
+    "RM": "Comi",
+    "Cod": "i15368",
+    "Dosar": "7",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Dorobantilor 113, bl 17, sc 1, ap 11",
+    "COD CONTABILITATE": "98",
+    "RM": "Comi",
+    "Cod": "i15631",
+    "Dosar": "7",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Detunata 15, ap. 27",
+    "COD CONTABILITATE": "93",
+    "RM": "Comi",
+    "Cod": "i16987",
+    "Dosar": "9",
+    "Parcare": "56",
+    "": ""
+  },
+  {
+    "Adresa": "Byron 6A, Ap. 12",
+    "COD CONTABILITATE": "9",
+    "RM": "Roby",
+    "Cod": "i15946",
+    "Dosar": "7",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Bușteni 4, Bl. O7, Ap. 16",
+    "COD CONTABILITATE": "-",
+    "RM": "Roby",
+    "Cod": "i16137",
+    "Dosar": "7",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "C. Brâncoveanu 56, bl. T4, sc. 3, Ap. 57",
+    "COD CONTABILITATE": "-",
+    "RM": "Roby",
+    "Cod": "i16833",
+    "Dosar": "7",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Viva City Bloc 2, Ap. N11-144",
+    "COD CONTABILITATE": "-",
+    "RM": "Comi",
+    "Cod": "i6619",
+    "Dosar": "8",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Tarnița 2, bl. C1, sc. 3, ap. 103",
+    "COD CONTABILITATE": "37",
+    "RM": "Comi",
+    "Cod": "i16195",
+    "Dosar": "8",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Donath XIII, sc. F, Ap. 87",
+    "COD CONTABILITATE": "43",
+    "RM": "Comi",
+    "Cod": "i16194",
+    "Dosar": "8",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Tâșnad 7, sc. 3, ap. 37",
+    "COD CONTABILITATE": "44",
+    "RM": "Comi",
+    "Cod": "i16193",
+    "Dosar": "8",
+    "Parcare": "1",
+    "": ""
+  },
+  {
+    "Adresa": "Teilor 15, ap. 27",
+    "COD CONTABILITATE": "45",
+    "RM": "Comi",
+    "Cod": "i16196",
+    "Dosar": "8",
+    "Parcare": "9",
+    "": ""
+  },
+  {
+    "Adresa": "Profesor Valeriu Bologa nr. 3, bl. 6, ap. F3-260",
+    "COD CONTABILITATE": "48",
+    "RM": "Roby",
+    "Cod": "i16269",
+    "Dosar": "8",
+    "Parcare": "204",
+    "": ""
+  },
+  {
+    "Adresa": "Ștefan Mora 2, bl. T1, sc. 2, ap. 20",
+    "COD CONTABILITATE": "-",
+    "RM": "Roby",
+    "Cod": "i16339",
+    "Dosar": "8",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Valea Garboului 1, sc. 1, ap. 30",
+    "COD CONTABILITATE": "26",
+    "RM": "Roby",
+    "Cod": "i16350",
+    "Dosar": "8",
+    "Parcare": "-",
+    "": ""
+  },
+  {
+    "Adresa": "Aurel Vlaicu 13, bl. V3, ap. 12",
+    "COD CONTABILITATE": "77",
+    "RM": "Roby",
+    "Cod": "i16341",
+    "Dosar": "8",
+    "Parcare": "104",
+    "": ""
+  },
+  {
+    "Adresa": "I. C. Brătianu 12, Ap. 13",
+    "COD CONTABILITATE": "27",
+    "RM": "Roby",
+    "Cod": "i16391",
+    "Dosar": "8",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Calea Mănăștur 87, sc. 1, Ap. 39",
+    "COD CONTABILITATE": "14",
+    "RM": "Roby",
+    "Cod": "i9260",
+    "Dosar": "8",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Dealul de jos nr 13, ap 1 (cod interfon  #2580)",
+    "COD CONTABILITATE": "102",
+    "RM": "Comi",
+    "Cod": "i16499",
+    "Dosar": "8",
+    "Parcare": "1",
+    "": ""
+  },
+  {
+    "Adresa": "Padin 27, bl. E9, sc. 1, ap. 12",
+    "COD CONTABILITATE": "52",
+    "RM": "Roby",
+    "Cod": "i16529",
+    "Dosar": "8",
+    "Parcare": "29",
+    "": ""
+  },
+  {
+    "Adresa": "Mehedinti nr. 9, bloc N1, scara 1, ap. 14",
+    "COD CONTABILITATE": "17",
+    "RM": "Comi",
+    "Cod": "i16583",
+    "Dosar": "8",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Godeanu 5, bl. 12, sc. 2, ap. 18",
+    "COD CONTABILITATE": "50",
+    "RM": "Roby",
+    "Cod": "i16886",
+    "Dosar": "9",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Jupiter 5, bl. 27B, ap. 8",
+    "COD CONTABILITATE": "20",
+    "RM": "Roby",
+    "Cod": "i16948",
+    "Dosar": "9",
+    "Parcare": "16",
+    "": ""
+  },
+  {
+    "Adresa": "Gladiolelor 1G, Ap. 11 (cod interfon 9900#)",
+    "COD CONTABILITATE": "86",
+    "RM": "Roby",
+    "Cod": "i16976",
+    "Dosar": "9",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Cojocnei 21, bl. C8, sc. 1, ap. 58",
+    "COD CONTABILITATE": "55",
+    "RM": "Roby",
+    "Cod": "i17055",
+    "Dosar": "9",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Zambilei 21, sc. 1, ap. 113",
+    "COD CONTABILITATE": "54",
+    "RM": "Roby",
+    "Cod": "i17098",
+    "Dosar": "9",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Tineretului 44, Ap. 2",
+    "COD CONTABILITATE": "-",
+    "RM": "Roby",
+    "Cod": "i8641",
+    "Dosar": "2",
+    "Parcare": "2",
+    "": ""
+  },
+  {
+    "Adresa": "Porii 154, corp 8, sc. III, Ap. 81, P. 294",
+    "COD CONTABILITATE": "-",
+    "RM": "Roby",
+    "Cod": "i16207",
+    "Dosar": "2",
+    "Parcare": "296",
+    "": ""
+  },
+  {
+    "Adresa": "Oașului 334B, ap. 30",
+    "COD CONTABILITATE": "3",
+    "RM": "Roby",
+    "Cod": "i17137",
+    "Dosar": "9",
+    "Parcare": "11",
+    "": ""
+  },
+  {
+    "Adresa": "1 Decembrie 1918, nr 126, blE, sc 3, et 7, ap 78",
+    "COD CONTABILITATE": "78",
+    "RM": "Comi",
+    "Cod": "i17187",
+    "Dosar": "9",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Popești, 217 H",
+    "COD CONTABILITATE": "64",
+    "RM": "Roby",
+    "Cod": "i17249",
+    "Dosar": "9",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Popești, 217 G",
+    "COD CONTABILITATE": "67",
+    "RM": "Roby",
+    "Cod": "i17216",
+    "Dosar": "9",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Popești, 217 I",
+    "COD CONTABILITATE": "82",
+    "RM": "Roby",
+    "Cod": "i17349",
+    "Dosar": "6",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Popești, 217 J",
+    "COD CONTABILITATE": "68",
+    "RM": "Roby",
+    "Cod": "i17338",
+    "Dosar": "5",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Popești, 217 L",
+    "COD CONTABILITATE": "33",
+    "RM": "Roby",
+    "Cod": "i17762",
+    "Dosar": "3",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Nicolae Pascaly nr. 7, bl. S3, ap. 6",
+    "COD CONTABILITATE": "84",
+    "RM": "Comi",
+    "Cod": "i17334",
+    "Dosar": "6",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Pasteur, nr. 24, bl. 9U, sc. 2, ap. 27",
+    "COD CONTABILITATE": "87",
+    "RM": "Comi",
+    "Cod": "i17406",
+    "Dosar": "7",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Eroilor 358 Ap.3",
+    "COD CONTABILITATE": "90",
+    "RM": "Comi",
+    "Cod": "i17498",
+    "Dosar": "7",
+    "Parcare": "Da",
+    "": ""
+  },
+  {
+    "Adresa": "Calea Motilor 71-73, Ap. 15, Cod interfon 521A",
+    "COD CONTABILITATE": "16",
+    "RM": "Roby",
+    "Cod": "i17531",
+    "Dosar": "7",
+    "Parcare": "41",
+    "": ""
+  },
+  {
+    "Adresa": "Nicolae Labis nr. 64A, bloc B3, Et. 7, ap. 53 (Brasov)",
+    "COD CONTABILITATE": "106",
+    "RM": "Comi",
+    "Cod": "i17677",
+    "Dosar": "6",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Urușagului 107E, Ap. 16, cod gunoi C4567",
+    "COD CONTABILITATE": "85",
+    "RM": "Roby",
+    "Cod": "i16974",
+    "Dosar": "9",
+    "Parcare": "49",
+    "": ""
+  },
+  {
+    "Adresa": "Cojocnei 10-12, Sc. 1, Ap. 13",
+    "COD CONTABILITATE": "-",
+    "RM": "Roby",
+    "Cod": "i17736",
+    "Dosar": "5",
+    "Parcare": "-",
+    "": ""
+  },
+  {
+    "Adresa": "Florilor Nr 260",
+    "COD CONTABILITATE": "46",
+    "RM": "Comi",
+    "Cod": "i17760",
+    "Dosar": "3",
+    "Parcare": "",
+    "": ""
+  },
+  {
+    "Adresa": "Tulcea 6, Sc. 2, Ap. 42",
+    "COD CONTABILITATE": "13",
+    "RM": "Roby",
+    "Cod": "i17769",
+    "Dosar": "5",
+    "Parcare": "-",
+    "": ""
+  },
+  {
+    "Adresa": "Becaș 19-21, bl. C1, sc. 1, ap. 5",
+    "COD CONTABILITATE": "2",
+    "RM": "Roby",
+    "Cod": "i17801",
+    "Dosar": "10",
+    "Parcare": "Conform foto",
+    "": ""
+  },
+  {
+    "Adresa": "Muncitorilor 8, bl. A2, sc. 1, ap. 36",
+    "COD CONTABILITATE": "24",
+    "RM": "Roby",
+    "Cod": "i17806",
+    "Dosar": "10",
+    "Parcare": "-",
+    "": ""
+  },
+  {
+    "Adresa": "Bună Ziua 12, Bl. B2, Ap. 10, P. 14, boxa 10",
+    "COD CONTABILITATE": "",
+    "RM": "Roby",
+    "Cod": "i17825",
+    "Dosar": "10",
+    "Parcare": "",
+    "": ""
+  }
+]

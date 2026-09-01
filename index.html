@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ingatlanok keresése</title>
+<style>
+* {box-sizing:border-box}
+body {margin:0;font-family:Arial,sans-serif;background:#f5f6f8;color:#222}
+.container {max-width:1500px;margin:auto;padding:24px}
+h1 {margin:0 0 18px}
+.search {position:sticky;top:0;z-index:10;background:#f5f6f8;padding:10px 0 18px}
+#search {width:100%;padding:14px 16px;font-size:18px;border:1px solid #aaa;border-radius:8px}
+#status {margin:8px 0 14px;color:#666}
+.table-wrap {background:#fff;border-radius:10px;box-shadow:0 2px 10px #0001;overflow:auto;max-height:75vh}
+table {border-collapse:collapse;width:100%;min-width:900px}
+th,td {padding:10px 12px;border-bottom:1px solid #e5e5e5;text-align:left;vertical-align:top}
+th {position:sticky;top:0;background:#eee}
+tr:hover td {background:#fafafa}
+.empty {padding:30px;text-align:center;color:#777}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>Ingatlanok</h1>
+<div class="search">
+<input id="search" type="search" placeholder="Írd be a címet..." autofocus>
+<div id="status"></div>
+</div>
+<div class="table-wrap">
+<table><thead><tr id="head"></tr></thead><tbody id="body"></tbody></table>
+</div>
+</div>
+<script>
+const headers=["Adresa", "COD CONTABILITATE", "RM", "Cod", "Dosar", "Parcare", ""];
+let data=[];
+
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"})[c]);
+const normalize = s => String(s ?? "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"");
+
+document.getElementById("head").innerHTML =
+  headers.map(h => "<th>"+esc(h)+"</th>").join("");
+
+const addressHeader = headers.find(h => /adresa|address|cim|cím/i.test(h));
+
+function render(rows) {
+  const body=document.getElementById("body");
+  document.getElementById("status").textContent =
+    rows.length+" találat / "+data.length+" ingatlan";
+  if(!rows.length) {
+    body.innerHTML='<tr><td class="empty" colspan="'+headers.length+'">Nincs találat.</td></tr>';
+    return;
+  }
+  body.innerHTML=rows.map(row =>
+    "<tr>"+headers.map(h => "<td>"+esc(row[h])+"</td>").join("")+"</tr>"
+  ).join("");
+}
+
+document.getElementById("search").addEventListener("input", function() {
+  const q=normalize(this.value.trim());
+  if(!q) return render(data);
+  const rows=data.filter(row => {
+    const value=addressHeader ? row[addressHeader] : Object.values(row).join(" ");
+    return normalize(value).includes(q);
+  });
+  render(rows);
+});
+
+fetch("proprietati.json")
+  .then(r => { if(!r.ok) throw new Error("A JSON fájl nem tölthető be."); return r.json(); })
+  .then(json => { data=json; render(data); })
+  .catch(err => document.getElementById("status").textContent =
+    "Hiba: "+err.message+" — az index.html és a proprietati.json legyen ugyanabban a mappában.");
+</script>
+</body>
+</html>
